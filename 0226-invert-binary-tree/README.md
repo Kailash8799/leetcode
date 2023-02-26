@@ -11,7 +11,7 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2021/03/14/invert2-tree.jpg" style="width: 500px; height: 120px;">
 <pre><strong>Input:</strong> root = [2,1,3]
 <strong>Output:</strong> [2,3,1]
-</pre>
+</pre> 
 
 <p><strong class="example">Example 3:</strong></p>
 
