@@ -5,7 +5,7 @@ class Solution {
       return nullptr;
 
     TreeNode* const left = root->left;
-    TreeNode* const right = root->right;
+    TreeNode* const right = root->right;  
     root->left = invertTree(right);
     root->right = invertTree(left);
     return root;
